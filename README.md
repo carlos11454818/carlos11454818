@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://logos.textgiraffe.com/logos/logo-name/39186723-designstyle-snowing-m.png"  />
+  <img height="290" src="https://logos.textgiraffe.com/logos/logo-name/39186723-designstyle-snowing-m.png"  />
 </div>
 
 ###
@@ -14,7 +14,7 @@
 
 ###
 
-<h1 align="left">- 🗺️Brasileiro -Macéio-AL <br><br>- 📚 Técnico de Informática para web<br><br>- 🎯 Fullstack<br><br>- 👨‍💻 Atualmente trabalhando como Padeiro</h1>
+<h2 align="left">- 🗺️Brasileiro -Macéio-AL <br><br>- 📚 Técnico de Informática para web<br><br>- 🎯 Fullstack<br><br>- 👨‍💻 Atualmente trabalhando como Padeiro</h2>
 
 ###
 
