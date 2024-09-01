@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="350" src="https://logos.textgiraffe.com/logos/logo-name/39186629-designstyle-chess-m.png"  />
+  <img height="300" src="https://logos.textgiraffe.com/logos/logo-name/39186723-designstyle-snowing-m.png"  />
 </div>
 
 ###
@@ -8,12 +8,12 @@
 
 ###
 
-<p align="left">🗺️Brasileiro -Macéio-AL <br><br>📚 Técnico de Informática para web<br><br>🎯 Fullstack<br><br>👨‍💻 Atualmente trabalhando como Padeiro</p>
+<h3 align="left">- 🗺️Brasileiro -Macéio-AL <br><br>- 📚 Técnico de Informática para web<br><br>- 🎯 Fullstack<br><br>- 👨‍💻 Atualmente trabalhando como Padeiro</h3>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/54e21545218dcb9e6bd1093dc8558bafd8f396e0a7fca4d2216beb8e162a8ef6/68747470733a2f2f74682e62696e672e636f6d2f74682f69642f522e38313137386234376138353938663063383163343739396632636464343035373f72696b3d356375564b25326266492532627350717177267069643d496d6752617726723d30"  />
+  <img height="319" src="https://camo.githubusercontent.com/54e21545218dcb9e6bd1093dc8558bafd8f396e0a7fca4d2216beb8e162a8ef6/68747470733a2f2f74682e62696e672e636f6d2f74682f69642f522e38313137386234376138353938663063383163343739396632636464343035373f72696b3d356375564b25326266492532627350717177267069643d496d6752617726723d30"  />
 </div>
 
 ###
